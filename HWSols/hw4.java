@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 // import java.util.*;
 
-public class Class4 {
+public class hw4 {
 
 	// Question 2
 	public static int[] newArray(int[] arr) {

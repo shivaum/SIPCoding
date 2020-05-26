@@ -1,5 +1,5 @@
 import java.util.Random;
-public class HW3JavaSol {
+public class HW3 {
 	public static int dice() {
 		Random rand = new Random();
 		return rand.nextInt(6) + 1;
